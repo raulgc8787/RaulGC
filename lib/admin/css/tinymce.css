@@ -1,0 +1,9 @@
+/*******  Custom buttons *******/
+
+.mce_beginrw,.mce_beginrw img,.mce_endrw,.mce_endrw img{
+	width: 40px !important;
+}
+
+.mce_tabs,.mce_tabs img, .mce_accordion,.mce_accordion img, .mce_infobox,.mce_infobox img, .mce_evidence,.mce_evidence img {
+	width: 60px !important;
+}
